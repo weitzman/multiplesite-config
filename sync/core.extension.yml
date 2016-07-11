@@ -6,6 +6,7 @@ module:
   file: 0
   filter: 0
   image: 0
+  ms: 0
   node: 0
   page_cache: 0
   system: 0
