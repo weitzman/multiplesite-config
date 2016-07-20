@@ -1,5 +1,7 @@
 {
   "name": "multiplesite-config/alpha",
+  "description": "alpha",
+  "type": "drupal-module",
   "require": {
     "composer/installers": "~1.0"
   }
