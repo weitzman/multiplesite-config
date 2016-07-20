@@ -1,3 +1,4 @@
 {
-  "name": "multiplesite-config/alpha"
+  "name": "multiplesite-config/alpha",
+  "type": "drupal-config"
 }
