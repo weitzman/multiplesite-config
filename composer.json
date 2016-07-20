@@ -1,7 +1,7 @@
 {
   "name": "multiplesite-config/alpha",
   "description": "alpha",
-  "type": "drupal-config",
+  "type": "bonefish-package",
   "require": {
     "composer/installers": "~1.0"
   }
