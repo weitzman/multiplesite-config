@@ -1,3 +1,4 @@
 {
-  "name": "multiplesite-config/bravo"
+  "name": "multiplesite-config/bravo",
+  "type": "drupal-config"
 }
