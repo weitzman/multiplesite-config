@@ -1,4 +1,5 @@
 {
   "name": "multiplesite-config/bravo",
+  "description": "bravo",
   "type": "bonefish-package"
 }
