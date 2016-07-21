@@ -1,4 +1,4 @@
 {
   "name": "multiplesite-config/bravo",
-  "type": "drupal-config"
+  "type": "bonefish-package"
 }
