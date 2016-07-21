@@ -1,8 +1,5 @@
 {
   "name": "multiplesite-config/alpha",
   "description": "alpha",
-  "type": "bonefish-package",
-  "require": {
-    "composer/installers": "~1.0"
-  }
+  "type": "bonefish-package"
 }
